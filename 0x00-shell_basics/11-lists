@@ -1,2 +1,2 @@
 11-lists
-ls -a . .. /boot
+ls -al . .. /boot
