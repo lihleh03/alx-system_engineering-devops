@@ -1,2 +1,2 @@
 9-divide_and_rule
-echo $(($POWER/$DIVINE))
+echo $(($POWER/$DIVIDE))
